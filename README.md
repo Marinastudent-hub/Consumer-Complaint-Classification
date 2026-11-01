@@ -83,3 +83,16 @@ The project includes a Gradio interface where users can enter a new consumer com
 4. Launch the Gradio interface.
 5. Enter a complaint to get a prediction.
 
+## Screenshots
+
+### Gradio Application
+![Gradio Interface](Screenshot%202026-11-01%20224757.png)
+
+### Model Predictions
+![Prediction Example](Screenshot%202026-11-01%20224900.png)
+
+### Complaint Classification Results
+![Classification Results](Screenshot%202026-11-01%20224940.png)
+
+### Additional Demo
+![Demo](Screenshot%202026-11-01%20225027.png)
